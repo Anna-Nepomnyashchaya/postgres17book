@@ -1,2 +1,5 @@
-# postgres17book
-Study Postgres
+### postgres17book
+## Study Postgres
+Развернула Postgres 17 в cloud.tp.wb.ru
+Были проблемы с тем, что забыла пароль от sudo, но потом подключилась под root и исправила.
+Тачка называется onboarding, проект orr-lab-001, дата центр nb.
