@@ -1,4 +1,4 @@
-### postgres17book
+### postgres_17_study_book
 #### Author Непомнящая Анна Вадимовна
 ## My first steps in learning Postgres
 Развернула Postgres 17 в cloud.tp.wb.ru
